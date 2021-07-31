@@ -1,0 +1,54 @@
+aside a{
+    color: $charcoal;
+
+    &:hover{
+        color: $orange;
+    }
+
+   
+}
+
+aside li a{
+    color: $charcoal;
+
+    &:hover{
+        color: $orange;
+    }
+
+    &:focus{
+        color: $orange;
+    }
+    
+
+    text-decoration: none;
+}
+
+.aside__font{
+    font-family: $poppins;
+    color: $charcoal ;
+}
+
+.aside__font--size-XS{
+    font-size: $x-small ;
+}
+
+.aside__font--size-S{
+    font-size: $small;
+}
+
+.aside__font--size-M{
+    font-size: $medium;
+}
+
+
+.aside__font--size-L{
+    font-size: $large ;
+}
+
+
+.aside__font--weight-Bold{
+    font-weight: $font-bold ;
+}
+
+
+

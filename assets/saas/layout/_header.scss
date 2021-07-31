@@ -1,0 +1,17 @@
+.header_image {
+    background-image: url(../img/desarrolloweb2021t.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 12.5rem;
+
+}
+
+@media (min-width: 768px) {
+    .header_image {
+        height: 31.25rem;
+    }
+  }
+
+
+// height: 31.25rem;

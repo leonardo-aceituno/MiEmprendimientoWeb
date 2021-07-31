@@ -1,0 +1,23 @@
+.footer__font{
+    font-family: $poppins;
+    font-size: $x-small;
+}
+
+
+input:focus{
+    background-color: $tangerine;
+}
+
+
+
+.form-control:focus {
+    border-color: $tangerine;
+    background-color: $orange;
+}
+
+
+footer li:hover{
+    color: $tangerine;
+}
+
+
